@@ -75,7 +75,7 @@ As for the CS Mount Lens deal, basically, you can either use the NE3 Stock Lens 
 
 1x [5.5x2.1mm DC Female Jack](https://amzn.to/3KLofNA)
 
-1x [AA Spring Terminal](https://amzn.to/3EysOdH)
+1x [AA Spring Terminal](https://a.co/d/diT6pwy)
 
 1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a [5V USB Power Bank](https://a.co/d/cTgl3xK), see [this writeup](https://github.com/knack-69/PVS-69/blob/main/Choosing%20the%20Right%20Battery%20Setup%20for%20My%20PVS-69.pdf) for more information)
 
@@ -101,9 +101,9 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 6x [M3x45mm Bolts](https://a.co/d/08iu33J)
 
-6x M3 Nuts (nylock would be better, but standard is fine)
+6x [M3 Nuts](https://a.co/d/5lRRR7A) ([Nylock](https://a.co/d/h8vUx54) would be better, but standard is fine)
 
-1x [Push Button](https://amzn.to/3Txgdvg) or [3-Position Rotary Switch](https://amzn.to/3TspGUS)
+1x [Push Button](https://a.co/d/02lWur2) or [2-Position Rotary Switch](https://a.co/d/f5mI0TB) (3-Position is fine but not needed)
 
 4x [Brass Washers](https://amzn.to/3WSWOI2)
 
